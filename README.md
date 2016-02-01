@@ -30,13 +30,14 @@ Various existing schema.org classes define properties for which our extended
 schema might provide extended semantics.
 
 [JobPosting](http://schema.org/JobPosting) defines the following properties:
+
 	* experienceRequirements
 	* qualifications
 	* skills
 	
 [Profession](http://schema.org/Profession), a [proposed new class in core](https://www.w3.org/2015/11/06-schemed-minutes.html).
 	
-It has [been](https://github.com/schemaorg/schemaorg/issues/789 
+It has [been](https://github.com/schemaorg/schemaorg/issues/789) 
 [proposed](https://github.com/schemaorg/schemaorg/issues/807#issuecomment-144746086)
 that [Person](http://schema.org/Person) should be extended with
 [singular](https://www.w3.org/wiki/WebSchemas/Singularity) skill and
