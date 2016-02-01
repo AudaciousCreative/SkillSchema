@@ -2,7 +2,8 @@
 
 A set of schema classes for describing skills, experience and qualifications
 
-This is a **DRAFT** of a proposed extension we intend to submit to schema.org.
+This is a **DRAFT** of a proposed extension we intend to submit to the
+W3C Schema.org Community Group.
 
 ## Purpose
 
@@ -42,5 +43,5 @@ It has [been](https://github.com/schemaorg/schemaorg/issues/789)
 that [Person](http://schema.org/Person) should be extended with
 [singular](https://www.w3.org/wiki/WebSchemas/Singularity) skill and
 qualification properties. We feel this would be very useful and that our
-propsed Skill, Experience and Qualification classes would provide extended
+proposed Skill, Experience and Qualification classes would provide extended
 semantics for the aforementioned properties.
